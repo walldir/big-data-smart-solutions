@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigDataSmartSolutions.Web",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigDataSmartSolutions.Web.Tests", "BigDataSmartSolutions.Web.Tests\BigDataSmartSolutions.Web.Tests.csproj", "{539B6A2B-6669-4397-A706-3EA2AED361A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigDataSmartSolutions.Core", "BigDataSmartSolutions.Core\BigDataSmartSolutions.Core.csproj", "{DC7184E1-6665-49CA-A5D8-9684D5E11599}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{539B6A2B-6669-4397-A706-3EA2AED361A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{539B6A2B-6669-4397-A706-3EA2AED361A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{539B6A2B-6669-4397-A706-3EA2AED361A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7184E1-6665-49CA-A5D8-9684D5E11599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7184E1-6665-49CA-A5D8-9684D5E11599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7184E1-6665-49CA-A5D8-9684D5E11599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7184E1-6665-49CA-A5D8-9684D5E11599}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
