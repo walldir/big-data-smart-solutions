@@ -214,6 +214,12 @@
     <Content Include="Content\fonts\FontAwesome.otf" />
     <None Include="Project_Readme.html" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BigDataSmartSolutions.Core\BigDataSmartSolutions.Core.csproj">
+      <Project>{dc7184e1-6665-49ca-a5d8-9684d5e11599}</Project>
+      <Name>BigDataSmartSolutions.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

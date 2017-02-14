@@ -1,13 +1,14 @@
 ﻿@{
-    ViewBag.Title = "Home Page";
+    ViewBag.Title = "Início";
 }
 
 <div class="col-md-12" style="min-height: 600px;">
-    <h2>Getting started</h2>
-    <p>
-        ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-        enables a clean separation of concerns and gives you full control over markup
-        for enjoyable, agile development.
-    </p>
-    <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+    <h2>Converter Excel para CSV</h2>
+    <div class="col-md-4" style="box-shadow: inset 0px -1px 0px 0px rgba(0, 0, 0, 0.07); background: #f6f6f6; padding: 21px 25px 40px 30px; border-radius: 2px;">
+        @using (Html.BeginForm("ConvertExcelToCsv", "Home", FormMethod.Post, new {enctype = "multipart/form-data"}))
+        {
+            <input type="file" name="file" style="margin-bottom: 8px;"/><br/>
+            <input type="submit" name="Submit" class="btn btn-default" id="Submit" value="Converter para CSV"/><br/>
+        }
+    </div>
 </div>

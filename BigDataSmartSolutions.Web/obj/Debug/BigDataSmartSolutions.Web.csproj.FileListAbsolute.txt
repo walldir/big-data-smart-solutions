@@ -38,3 +38,8 @@ c:\users\waldir\documents\visual studio 2015\Projects\BigDataSmartSolutions\BigD
 c:\users\waldir\documents\visual studio 2015\Projects\BigDataSmartSolutions\BigDataSmartSolutions.Web\obj\Debug\BigDataSmartSolutions.Web.csprojResolveAssemblyReference.cache
 c:\users\waldir\documents\visual studio 2015\Projects\BigDataSmartSolutions\BigDataSmartSolutions.Web\obj\Debug\BigDataSmartSolutions.Web.dll
 c:\users\waldir\documents\visual studio 2015\Projects\BigDataSmartSolutions\BigDataSmartSolutions.Web\obj\Debug\BigDataSmartSolutions.Web.pdb
+C:\Users\Waldir\Documents\Visual Studio 2015\Projects\BigDataSmartSolutions\BigDataSmartSolutions.Web\bin\BigDataSmartSolutions.Core.dll
+C:\Users\Waldir\Documents\Visual Studio 2015\Projects\BigDataSmartSolutions\BigDataSmartSolutions.Web\bin\Excel.4.5.dll
+C:\Users\Waldir\Documents\Visual Studio 2015\Projects\BigDataSmartSolutions\BigDataSmartSolutions.Web\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Waldir\Documents\Visual Studio 2015\Projects\BigDataSmartSolutions\BigDataSmartSolutions.Web\bin\BigDataSmartSolutions.Core.pdb
+C:\Users\Waldir\Documents\Visual Studio 2015\Projects\BigDataSmartSolutions\BigDataSmartSolutions.Web\bin\Excel.4.5.pdb
